@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UL Pathfinder</string>
+    <string name="dayOne">Monday</string>
+    <string name="dayTwo">Tuesday</string>
+    <string name="dayThree">Wednesday</string>
+    <string name="dayFour">Thursday</string>
+    <string name="dayFive">Friday</string>
+    <string name="time1">09:00</string>
+    <string name="time2">10:00</string>
+    <string name="time3">11:00</string>
+    <string name="time4">12:00</string>
+    <string name="time5">13:00</string>
+    <string name="time6">14:00</string>
+    <string name="time7">15:00</string>
+    <string name="time8">16:00</string>
+    <string name="time9">17:00</string>
+    <string name="tt">Timetable</string>
+    <string name="submit">Submit</string>
+    <string name="ul_id">UL ID</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
